@@ -25,3 +25,7 @@ Steps4Growth
    
 ```
 
+## About
+<img title="Dr.Balakrishna Gokaraju" src="https://github.com/dr-balu/Steps4Growth/blob/main/Images/Dr.Balu.png" width="800" />
+Balakrishna (Balu) Gokaraju received the B.S. degree in electronics and communication engineering from JNTU, Hyderabad, India, the M.S. degree in satellite remote sensing from BIT, Mesra, India, and the Ph.D. degree in computer engineering from Mississippi State University, USA.He visited NASA Goddard Space and Flight Center as an AI Research Faculty Member for seven months in 2019. He has extensive research background in satellite remote sensing applications and HPC, with 8 years of service in various national labs, including High Performance Computing Collaboratory (HPCC), the Center for Advanced Vehicular Systems, the Geosystems Research Institute, MSU, and the Indian Space Research Organization (ISRO). He is an Associate Professor with the Department of Computational Science and Engineering and the Associate Director of Visualization and Computing Advanced Research Center (ViCAR), North Carolina A&T State University. His current research interests include spatio-temporal scientific visualizations, HPC, fully autonomous ground rover maneuvering, and cyber security, Deep Learning.
+
